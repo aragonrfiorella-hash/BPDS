@@ -3,3 +3,10 @@ Proyecto realizado como práctica para aprender el manejo básico de Git y Githu
 En este ejercicio se trabaja con la creación de un repositorio local, commits, conexión con un repositorio remoto y publicación de cambios en Github
 ## Estructura del Proyecto
 El proyecto contiene una carpeta CRUD con archivos HTML, CSS, y JavaScript.
+## Información del Proyecto
+Nombre del estudiante: Fiorella Aragón Rodríguez
+Asignatura: Buenas Prácticas en Desarrollo de Software
+Universidad de la Costa
+Semestre: Cuarto semestre
+## Descripción
+Proyecto académico para practicar el manejo de Git y Github, utilizando control de versiones, ramas, commits y gestión de cambios
