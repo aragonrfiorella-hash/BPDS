@@ -10,3 +10,4 @@ Universidad de la Costa
 Semestre: Cuarto semestre - Rama prod
 ## Descripción
 Proyecto académico para practicar el manejo de Git y Github, utilizando control de versiones, ramas, commits y gestión de cambios
+Este cambio fue realizado desde la rama main.
