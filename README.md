@@ -7,6 +7,6 @@ El proyecto contiene una carpeta CRUD con archivos HTML, CSS, y JavaScript.
 Nombre del estudiante: Fiorella Aragón Rodríguez
 Asignatura: Buenas Prácticas en Desarrollo de Software
 Universidad de la Costa
-Semestre: Cuarto semestre
+Semestre: Cuarto semestre - Rama prod
 ## Descripción
 Proyecto académico para practicar el manejo de Git y Github, utilizando control de versiones, ramas, commits y gestión de cambios
