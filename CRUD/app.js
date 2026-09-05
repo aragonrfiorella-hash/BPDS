@@ -1,1 +1,0 @@
-console.log("Proyecto BPDS iniciado con éxito");
